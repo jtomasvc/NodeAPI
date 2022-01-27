@@ -1,0 +1,3 @@
+{"_id":{"$oid":"61e598b82b0f66c502410972"},"nombre":"tomas","apellido":"vergara cifuentes","empresa":"mi empresa","email":"correo@correo.com","telefono":"123123","__v":0}
+{"_id":{"$oid":"61e5c9a690c07e10263eb69b"},"nombre":"nicolas","apellido":"vergara","empresa":"chiper","email":"correo2@correo.com","telefono":"1231233","__v":0}
+{"_id":{"$oid":"61e5c9c690c07e10263eb69d"},"nombre":"julian","apellido":"cifuentes","empresa":"sophos","email":"correo3@correo.com","telefono":"3202636140","__v":0}
